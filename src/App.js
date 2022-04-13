@@ -28,8 +28,6 @@ console.log(data);
 //const items = data.map((id,name,email) =>  (<p> key={id} name = {name} email ={email}))</p>
 
 
-
-
   return (
     <div>
       <h1>Return Item from Object Array</h1>
